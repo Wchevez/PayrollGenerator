@@ -1,0 +1,5 @@
+id|name|hours-worked|pay-rate
+10|Dana Watt|52.5|12.50
+20|Ezra Aiden|17|16.75
+30|Brittany Chan's|40|16.50
+40|Zniah Hughes|2|10.0
